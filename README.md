@@ -4,7 +4,7 @@
 
 ## What I learned
 
-- Bootstrap tutorial by NetN inja
+- Bootstrap tutorial by Net Ninja
 - Bootstrap settings and various classes
-- Use custom colors with SASS
+- Was able to use custom colors with SASS
 - Have to build more projects to get used to Bootstrap.
